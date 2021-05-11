@@ -1,3 +1,5 @@
 # Go Challenges
 
-Learn concept of Go by implementing simple projects.
+Learn Go by implementing simple projects.
+
+Intended only for those who want to get started using Go.
