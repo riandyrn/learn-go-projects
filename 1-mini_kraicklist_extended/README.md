@@ -2,7 +2,7 @@
 
 In this exercise we will try to extend the capability of Mini Kraicklist API server from previous exercise.
 
-In this exercise we will also now includes following APIs:
+We will now also includes following APIs:
 
 - [Update Ad](#update-ad)
 - [Delete Ad](#delete-ad)
